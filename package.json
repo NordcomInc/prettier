@@ -1,13 +1,10 @@
 {
     "name": "@nordcom/prettier",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "description": "Prettier code formatting config for all of Nordcom Group Inc.'s projects.",
     "main": "prettier.json",
     "prettier": "./prettier.json",
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/NordcomInc/prettier.git"
-    },
+    "repository": "https://github.com/NordcomInc/prettier",
     "publishConfig": {
         "access": "public"
     },
