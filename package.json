@@ -1,0 +1,43 @@
+{
+    "name": "@nordcom/prettier",
+    "version": "0.1.0",
+    "description": "Prettier code formatting config for all of Nordcom Group Inc.'s projects.",
+    "main": "prettier.json",
+    "prettier": "./prettier.json",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/NordcomInc/prettier.git"
+    },
+    "publishConfig": {
+        "access": "public"
+    },
+    "files": [
+        "prettier.json"
+    ],
+    "keywords": [
+        "prettier",
+        "prettier-config",
+        "nordcom"
+    ],
+    "author": {
+        "name": "Nordcom Group Inc.",
+        "email": "opensource@nordcom.io",
+        "url": "https://nordcom.io/"
+    },
+    "contributors": [
+        {
+            "name": "Filiph Siitam Sandström",
+            "email": "filiph@nordcom.io",
+            "url": "https://github.com/filiphsps/"
+        }
+    ],
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/NordcomInc/prettier/issues"
+    },
+    "homepage": "https://github.com/NordcomInc/prettier#readme",
+    "devDependencies": {
+        "@types/node": "20.5.0",
+        "prettier": "3.0.2"
+    }
+}
