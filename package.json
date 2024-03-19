@@ -34,7 +34,7 @@
     },
     "homepage": "https://github.com/NordcomInc/prettier#readme",
     "devDependencies": {
-        "@types/node": "20.9.4",
+        "@types/node": "20.11.30",
         "prettier": "3.0.3"
     }
 }
